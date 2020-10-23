@@ -135,8 +135,8 @@ fi
 
 # Detect arch
 if [[ ! -f "$systemdir/system/lib64/libandroid.so" ]]; then
-    echo "-> 32bit source detected, weird flex but ok!"
-    # do something here?
+    echo "-> 32-bit arch detected! Use 64-bit ROM/FW in next time, isn't possible build 32-bit due lack of binder32 libs."
+    exit 1
 fi
 
 # Debloat
