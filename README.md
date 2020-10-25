@@ -1,12 +1,10 @@
 # ErfanGSIs Tool - Hitsuki Edition
 
-This repository is a fork of a fork of the ErfanGSIs Tool for private use, you are free to create your fork and make your changes (at least give the credits to all contributors of the ErfanGSIs Tool project).
+This repository is a fork of the ErfanGSIs Tool with numerous changes/improvements!
 
-See also the [ErfanGSIs-Builder](https://github.com/Project-WKF/ErfanGSIs-Builder) repository where you can see GSIs being made with GitHub Actions.
+Find GSIs made using this tool on the Telegram channel [@TrebleExperience](https://t.me/TrebleExperience)
 
-You can find GSIs made with this tool on the channel [@TrebleExperience](https://t.me/TrebleExperience) on Telegram.
-
-### Download tools
+### How to download
 
 ```
 git clone --recurse-submodules https://github.com/Treble-Experience/ErfanGSIs-Hitsuki.git ErfanGSIs 
