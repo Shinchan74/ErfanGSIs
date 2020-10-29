@@ -6,20 +6,20 @@ Find GSIs made using this tool on the Telegram channel [@TrebleExperience](https
 
 ### How to download
 
-```
+```bash
 git clone --recurse-submodules https://github.com/Treble-Experience/ErfanGSIs-Hitsuki.git ErfanGSIs 
 cd ErfanGSIs
 ```
 
 ### Setting up requirements
 
-```
+```bash
 bash setup.sh
 ```
 
 ## Usage
 
-```
+```bash
 ./url2GSI.sh <Firmware link> <Firmware type> [Other args]
 [--help|-h|-?] [--ab|-b] [--aonly|-a] [--mounted|-m] [--cleanup|-c]
         Firmware link: Firmware download link or local path
@@ -32,7 +32,7 @@ bash setup.sh
 
 ### Supported firmware types
 
-```
+```bash
 Supported types on Android 9:
 Nubia, Moto, OneUI, MIUI, OxygenOS, ZenUI, Generic, Flyme, Pixel, ColorOS, ZUI, Xperia, RazerUI, VOS, RogUI
 
