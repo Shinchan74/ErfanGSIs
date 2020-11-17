@@ -2,8 +2,6 @@
 
 This repository is a fork of the ErfanGSIs Tool with numerous changes/improvements!
 
-Find GSIs made using this tool on the Telegram channel [@TrebleExperience](https://t.me/TrebleExperience)
-
 ### How to download
 
 ```bash
